@@ -1,0 +1,28 @@
+body {margin: 0;}
+.div-um {
+    width: 250px;
+    height: 750px;
+    background-color: #000000;
+}
+.div-dois {
+    width: 75%;
+    height: 25%;
+    background-color: #ffffff;
+}
+p {
+    color: rgb(10, 40, 209);
+    background-color:crimson;
+    font-size: 38px;
+    font-family: fantasy;
+    font-weight: inherit;
+}
+.div-tres {
+    width: 20%;
+    height: 20vw;
+    background-color: rgb(160, 178, 0);
+}
+.div-quatro {
+    width: 15vw;
+    height: 70%;
+    background-color: rgb(107, 1, 66);
+}
